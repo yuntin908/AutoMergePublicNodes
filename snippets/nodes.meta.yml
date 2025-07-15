@@ -1732,7 +1732,7 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
-- name: '9,10|Telegram : CaptalVpn🏴️'
+- name: 9,10|Telegram@vmessorg
   password: JSC7GnvDM4mIitnCZXQo8IKSPs
   port: 29713
   server: 13.250.121.168
@@ -1786,7 +1786,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9,10|Telegram : CaptalVpn🏴‍☠️'
+- name: '9,10|Telegram@vmessorg #1'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
   server: 150.230.30.237
@@ -1810,7 +1810,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9,10|رچ کن  @ProxyBeat  /// کد 259
+- name: 9,10|💎کانفیگ های بیشتر در چنل تلگرا...
   password: dongtaiwang.com
   port: 30033
   server: 46.17.41.217
@@ -1871,7 +1871,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '9,10|Telegram : CaptalVpn🏴‍☠️ #1'
+- name: '9,10|Telegram@vmessorg #2'
   password: yoP8tOtEhMTSBUPY9LwnHABvFE
   port: 14933
   server: 18.136.211.127
@@ -2399,16 +2399,6 @@ proxies:
   port: 44929
   server: p1.punchline.ir
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '10|  @V2rayNG_CaFe | کانال ما '
-  obfs: salamander
-  obfs-password: Telegram-->@Ln2Ray
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: gavazn.lnmarketplace.net
-  skip-cert-verify: false
-  sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
 - name: 10|🇩🇪 @VPNHubMaRKeT ⚡️  @VpnHubMa...
