@@ -2030,7 +2030,7 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
-- name: 10|ما  @V2xay
+- name: 10|آمن  @V2xay
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
