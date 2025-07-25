@@ -2061,6 +2061,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 10|@SaghiVpnX[]
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 35200
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
 - name: 10|@Filter_breaker | United Kingd...
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -2105,6 +2115,30 @@ proxies:
   port: 33331
   server: 206.71.158.40
   sni: jnir-1.pichondan.com
+  tls: false
+  type: hysteria2
+- name: 10| @Filter_breaker
+  password: bd3e3f61-242a-42ae-8598-fc0821f29104
+  port: 50000
+  server: 153.121.42.218
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+- name: 10|🇯🇵 @Filter_breaker
+  password: bd3e3f61-242a-42ae-8598-fc0821f29104
+  port: 50000
+  server: 45.11.1.62
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+- name: 10|🇸 @Filter_breaker
+  password: bd3e3f61-242a-42ae-8598-fc0821f29104
+  port: 50000
+  server: 87.254.23.104
+  skip-cert-verify: true
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - name: 10|@Filter_breaker | United State...
