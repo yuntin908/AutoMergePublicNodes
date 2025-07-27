@@ -95,7 +95,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '10|未命名 #4'
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #19'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray

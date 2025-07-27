@@ -1824,7 +1824,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '9,10|🅼🅴🅷🅳🅸 #5'
+- name: '9,10|🔷🆔@v2ray_configs_pool🔷 #28'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -1840,7 +1840,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 10|@CanfigVip+🍕
+- name: 10|@CanfigVip+
   password: 07c122ad-50b2-4f61-9435-efcf112bb10b
   port: 56704
   server: 172.252.236.213
@@ -2000,6 +2000,132 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #1'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11145
+  server: yume-ee.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #2'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11232
+  server: yume-ee.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #3'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11465
+  server: yume-es.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #4'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11496
+  server: yume-es.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #5'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11331
+  server: yume-hk.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #6'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11510
+  server: yume-hk.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #7'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11326
+  server: yume-il.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #8'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11658
+  server: yume-il.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #9'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11724
+  server: yume-nl.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #10'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11957
+  server: yume-nl.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #11'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11246
+  server: yume-pl.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #12'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11752
+  server: yume-pl.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #13'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11861
+  server: yume-se.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #14'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11948
+  server: yume-se.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #15'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11147
+  server: yume-uk.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #16'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11220
+  server: yume-uk.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #17'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11177
+  server: yume-us.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #18'
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11484
+  server: yume-us.legeth.xyz
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: 10|telegram  @v2rayNG_Matsuri
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -2010,7 +2136,7 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
-- name: 10|آم  @V2xay
+- name: 10|  @V2xay
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -2129,7 +2255,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|未命名 #4'
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #19'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -2175,7 +2301,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|🅼🅴🅷🅳🅸 #1'
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #21'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2185,7 +2311,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🅼🅴🅷🅳🅸 #3'
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #24'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2195,7 +2321,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|🅼🅴🅷🅳🅸
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #20'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2205,7 +2331,17 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🅼🅴🅷🅳🅸 #2'
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #22'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36300
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #23'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2249,6 +2385,14 @@ proxies:
   port: 33331
   server: 206.71.158.40
   sni: jnir-1.pichondan.com
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #25'
+  password: cc83a02b-90ea-403b-9c76-27e4be95f637
+  port: 50256
+  server: 154.204.181.230
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '10|Telegram@vmessorg #1'
@@ -2343,6 +2487,14 @@ proxies:
   port: 41250
   server: 5.133.102.59
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #27'
+  password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
+  port: 43057
+  server: 203.174.82.145
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '10|@V2rayNG3 #9'
@@ -2503,6 +2655,13 @@ proxies:
   server: 185.146.173.3400
   skip-cert-verify: false
   sni: hysteria.de.vpnfree.org
+  tls: false
+  type: hysteria2
+- name: '10|🔷🆔@v2ray_configs_pool🔷 #29'
+  password: wl4HYN9PPKs8d8IzGIt4yKqt0
+  port: 53348
+  server: 47.74.34.102
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '10|Telegram@vmessorg #2'
