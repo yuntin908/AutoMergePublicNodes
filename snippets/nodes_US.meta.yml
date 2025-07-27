@@ -1338,6 +1338,15 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 10|@SaghiVpnX[🇺🇸]
+  obfs: salamander
+  obfs-password: sanajan324@re44
+  password: zz0IPHmeNp
+  port: 51330
+  server: tamasha.asrenet.ru
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '11|Channel id: @ShadowProxy66🇺🇸 #1'
   password: b72ba5d5-2d5e-45b7-93b5-236d343baa7c
   port: 47262

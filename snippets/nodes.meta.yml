@@ -1795,7 +1795,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '9,11|Channel id: @ShadowProxy66🇫🇷'
+- name: '9,10,11|Channel id: @ShadowProxy66🇫🇷'
   password: dongtaiwang.com
   port: 31180
   server: 51.159.111.32
@@ -2368,6 +2368,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 10|🔷🆔@v2ray_configs_pool🔷
+  password: nfsn666
+  port: 8888
+  server: hk.nfsn666.gq
+  skip-cert-verify: true
+  sni: hk.nfsn666.gq
+  tls: false
+  type: hysteria2
 - name: '10|v2raybluecrystal2 #5'
   obfs: salamander
   obfs-password: v2raybluecrystal
@@ -2437,13 +2445,6 @@ proxies:
   sni: hysteria.de.vpnfree.org
   tls: false
   type: hysteria2
-- name: 10|@v2ray_configs_pool🔷
-  password: wl4HYN9PPKs8d8IzGIt4yKqt0
-  port: 53348
-  server: 47.74.34.102
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: '10|Telegram@vmessorg #2'
   password: yoP8tOtEhMTSBUPY9LwnHABvFE
   port: 14933
@@ -2457,6 +2458,15 @@ proxies:
   obfs-password: AwsdFRD453tG
   password: zz0IPHmeNp
   port: 48009
+  server: tamasha.asrenet.ru
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|@SaghiVpnX[🇺🇸]
+  obfs: salamander
+  obfs-password: sanajan324@re44
+  password: zz0IPHmeNp
+  port: 51330
   server: tamasha.asrenet.ru
   skip-cert-verify: true
   tls: false
