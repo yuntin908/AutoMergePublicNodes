@@ -1553,13 +1553,11 @@ proxies:
   type: hysteria2
   udp: true
 - auth: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
-  name: '2,10|Telegram:@config_proxy '
+  name: 2|🇺🇸122 |  1.4MB/s
   password: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
   port: 8443
   server: 2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net
-  skip-cert-verify: false
   sni: 2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net
-  tls: false
   type: hysteria2
   udp: true
 - name: 2|🇺🇸123 |  1.3MB/s|61%|Disney|Op...
@@ -2574,19 +2572,17 @@ proxies:
   server: 137.220.191.40
   tfo: false
   type: ss
-- name: 12,13|日本3|@ripaojiedian
-  network: tcp
+- name: 12|🇯🇵 日本3|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 443
-  server: 172.238.14.135
+  server: 172.104.114.51
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|日本4|@ripaojiedian
-  network: tcp
+- name: 12|🇯🇵 日本4|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 443
-  server: 172.237.27.220
+  port: 46135
+  server: 36.151.192.243
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -2693,6 +2689,22 @@ proxies:
   tls: false
   type: vmess
   uuid: 97a3cf03-66d6-4d65-aa3e-33eb6c709be7
+- name: 13|日本3|@ripaojiedian
+  network: tcp
+  password: d0d08cddacc3190ea81b1b792e1b5fde
+  port: 443
+  server: 172.238.14.135
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: 13|日本4|@ripaojiedian
+  network: tcp
+  password: d0d08cddacc3190ea81b1b792e1b5fde
+  port: 443
+  server: 172.237.27.220
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
 - name: 13|日本5|@ripaojiedian
   network: ws
   password: 2ba7e4d0-f2f9-456e-a43e-f5a724d7e367
