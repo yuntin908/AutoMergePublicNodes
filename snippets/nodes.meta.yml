@@ -2122,7 +2122,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|️ @FreakConfig
+- name: 10|🛡️ @FreakConfig
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -2340,7 +2340,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|@Daily_Configs
+- name: '10|🛡️ @FreakConfig #1'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -2453,7 +2453,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|Telegram:@config_proxy 😍
+- name: 10|️ @FreakConfig
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
