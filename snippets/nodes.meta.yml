@@ -2122,13 +2122,13 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|telegram  @v2rayNG_Matsuri
+- name: 10|️ @FreakConfig
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   port: 35000
   server: 206.71.158.40
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: pichondan.com
   tls: false
   type: hysteria2
@@ -2152,7 +2152,7 @@ proxies:
   sni: all-v4.dgi000.store
   tls: false
   type: hysteria2
-- name: 10|🇱telegram ➠ @v2rayNG_Matsuri
+- name: 10|🇱telegram  @v2rayNG_Matsuri
   password: AZrgUfcGknbd6Q6LHkzMT0ODVk
   port: 32089
   server: 43.199.72.130
@@ -2248,7 +2248,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|🇵🇾telegram ➠ @v2rayNG_Matsuri
+- name: '10|آلمان 🇩🇪 @V2xay #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
