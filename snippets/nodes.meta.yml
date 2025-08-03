@@ -1666,18 +1666,11 @@ proxies:
   sni: 1231231.1234567890spcloud.com
   tls: false
   type: hysteria2
-- name: '9|Telegram:@config_proxy '
+- name: '9|Channel id: @ShadowProxy66'
   password: 203d1d64-3313-11ed-bb74-f23c9164ca5d
   port: 8443
   server: 107.167.18.102
   sni: 0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net
-  tls: false
-  type: hysteria2
-- name: 9|Telegram:@config_proxy 😍
-  password: 203d1d64-3313-11ed-bb74-f23c9164ca5d
-  port: 8443
-  server: 107.167.18.102
-  sni: d7b8355e-suk9s0-t8ro7t-1ey07.hy2.gotochinatown.net
   tls: false
   type: hysteria2
 - name: '9|Channel id: @ShadowProxy66 #1'
@@ -1736,14 +1729,6 @@ proxies:
   sni: zp2.eyujichang.xyz
   tls: false
   type: hysteria2
-- name: '9|Telegram:@config_proxy 😍 #1'
-  password: 3ee091ca-ab9c-11ef-a791-f23c9164ca5d
-  port: 8443
-  server: 107.167.18.102
-  skip-cert-verify: true
-  sni: 3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net
-  tls: false
-  type: hysteria2
 - name: 9|🇯🇵日本东京2
   password: 5d110f18-5a37-4db3-8cf6-f0bced38a1ae
   port: 443
@@ -1756,22 +1741,6 @@ proxies:
   password: 5d110f18-5a37-4db3-8cf6-f0bced38a1ae
   port: 443
   server: 89.185.27.133
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '9|Telegram:@config_proxy 😍 #3'
-  password: 7992f244-8c2c-4a1a-923f-2e116e90149b
-  port: 443
-  server: 198.23.130.211
-  skip-cert-verify: true
-  sni: file-oss-ccs-02.dafei.de
-  tls: false
-  type: hysteria2
-- name: '9|Telegram:@config_proxy 😍 #4'
-  password: 8418fb71-419d-4fc3-8b29-d7fee8de76c7
-  port: 443
-  server: 104.168.34.109
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
@@ -1854,7 +1823,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9|🇸🇬新加坡
+- name: 9|🇬新加坡
   password: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
   port: 443
   server: aws-linkhy10.liangxin1.xyz
@@ -2073,7 +2042,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|@V2ray_cartel
+- name: 10|@V2ray_confs
+  password: dongtaiwang.com
+  port: 4710
+  server: 108.181.5.130
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|@V2ray_confs #1'
   password: dongtaiwang.com
   port: 50850
   server: 45.129.2.108
