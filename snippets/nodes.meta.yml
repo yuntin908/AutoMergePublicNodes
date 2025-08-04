@@ -1348,13 +1348,11 @@ proxies:
   ws-opts:
     path: /6603a779
 - auth: 2ec58858-976b-11ea-82ef-f23c9164ca5d
-  name: '1,9|@v2ray_configs_pool #2'
+  name: 1|🇺🇸98 |  1.3MB/s
   password: 2ec58858-976b-11ea-82ef-f23c9164ca5d
   port: 8443
   server: 6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net
-  skip-cert-verify: false
   sni: 6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net
-  tls: false
   type: hysteria2
   udp: true
 - name: 1|🇺🇸99 |  4.8MB/s|0%|Openai|Gemi...
@@ -1793,7 +1791,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8,9|@v2ray_configs_pool #7'
+- name: '8,9|@v2ray_configs_pool #3'
   password: cc83a02b-90ea-403b-9c76-27e4be95f637
   port: 50256
   server: 154.204.181.230
@@ -1809,7 +1807,7 @@ proxies:
   sni: gbr1.587458.xyz
   tls: false
   type: hysteria2
-- name: '8,9|@v2ray_configs_pool #8'
+- name: '8|Channel id: @ShadowProxy66🇺🇸 #1'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -1817,7 +1815,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '8,9|@v2ray_configs_pool #9'
+- name: '8,9|🛡️ @FreakConfig #2'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -1839,7 +1837,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: '8,9|@v2ray_configs_pool #10'
+- name: '8|Channel id: @ShadowProxy66🇬'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
@@ -1870,7 +1868,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8,9|@v2ray_configs_pool #12'
+- name: '8,9|@v2ray_configs_pool #5'
   password: wl4HYN9PPKs8d8IzGIt4yKqt0
   port: 53348
   server: 47.74.34.102
@@ -1932,14 +1930,6 @@ proxies:
   server: s15.serv00.com
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '9|@v2ray_configs_pool #6'
-  password: 7992f244-8c2c-4a1a-923f-2e116e90149b
-  port: 443
-  server: 198.23.130.211
-  skip-cert-verify: true
-  sni: file-oss-ccs-02.dafei.de
   tls: false
   type: hysteria2
 - name: 9|🛡️ @FreakConfig
