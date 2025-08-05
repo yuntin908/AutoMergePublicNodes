@@ -1348,11 +1348,13 @@ proxies:
   ws-opts:
     path: /6603a779
 - auth: 2ec58858-976b-11ea-82ef-f23c9164ca5d
-  name: 2|🇺🇸98 |  1.3MB/s
+  name: '2,10|@v2ray_configs_pool #5'
   password: 2ec58858-976b-11ea-82ef-f23c9164ca5d
   port: 8443
   server: 6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net
+  skip-cert-verify: false
   sni: 6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net
+  tls: false
   type: hysteria2
   udp: true
 - name: 2|🇺🇸99 |  4.8MB/s|0%|Openai|Gemi...
@@ -1399,11 +1401,13 @@ proxies:
   type: hysteria2
   udp: true
 - auth: 607d365e-7ea1-11ee-95e9-f23c913c8d2b
-  name: 2|🇺🇸104 |  2.1MB/s
+  name: '2,10|@v2ray_configs_pool #11'
   password: 607d365e-7ea1-11ee-95e9-f23c913c8d2b
   port: 8443
   server: 69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net
+  skip-cert-verify: false
   sni: 69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net
+  tls: false
   type: hysteria2
   udp: true
 - auth: e3975a05-b89e-11ec-a50d-f23c91cfbbc9
@@ -1435,11 +1439,13 @@ proxies:
   type: hysteria2
   udp: true
 - auth: 607d365e-7ea1-11ee-95e9-f23c913c8d2b
-  name: 2|🇺🇸109 |  3.2MB/s
+  name: '2,10|@v2ray_configs_pool #12'
   password: 607d365e-7ea1-11ee-95e9-f23c913c8d2b
   port: 8443
   server: ccb2a204-sw1z40-sx7hbg-1mmbp.hy2.gotochinatown.net
+  skip-cert-verify: false
   sni: ccb2a204-sw1z40-sx7hbg-1mmbp.hy2.gotochinatown.net
+  tls: false
   type: hysteria2
   udp: true
 - name: 2|🇺🇸110 |  3.1MB/s|46%|Openai
@@ -1495,11 +1501,13 @@ proxies:
   tls: true
   type: socks5
 - auth: 8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9
-  name: 2|🇺🇸116 |  1.2MB/s
+  name: '2,10|@v2ray_configs_pool #16'
   password: 8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9
   port: 8443
   server: 1ec1d0fd-sw3ts0-swdpud-duku.hy2.gotochinatown.net
+  skip-cert-verify: false
   sni: 1ec1d0fd-sw3ts0-swdpud-duku.hy2.gotochinatown.net
+  tls: false
   type: hysteria2
   udp: true
 - name: 2|🇺🇸117 |  2.6MB/s|0%|Openai|Gem...
@@ -1551,11 +1559,13 @@ proxies:
   type: hysteria2
   udp: true
 - auth: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
-  name: 2|🇺🇸122 |  1.4MB/s
+  name: 2,10|@v2ray_configs_pool
   password: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
   port: 8443
   server: 2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net
+  skip-cert-verify: false
   sni: 2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net
+  tls: false
   type: hysteria2
   udp: true
 - name: 2|🇺🇸123 |  1.3MB/s|61%|Disney|Op...
@@ -1666,7 +1676,7 @@ proxies:
   sni: 1231231.1234567890spcloud.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇯🇵'
+- name: '9,10|@v2ray_configs_pool #3'
   password: 262100bd-a0c7-4412-a62d-a07d01f11a6a
   port: 443
   server: 153.121.42.218
@@ -1674,7 +1684,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇯🇵 #1'
+- name: '9,10|@v2ray_configs_pool #4'
   password: 262100bd-a0c7-4412-a62d-a07d01f11a6a
   port: 443
   server: 45.11.1.62
@@ -1825,7 +1835,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '9,10|🛡️ @FreakConfig #2'
+- name: '9,10|@v2ray_configs_pool #26'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -1847,7 +1857,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇬'
+- name: '9,10|@v2ray_configs_pool #27'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
@@ -1862,7 +1872,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇭🇰 #1'
+- name: '9,10|@v2ray_configs_pool #29'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -1878,7 +1888,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇯🇵 #2'
+- name: '9,10|@v2ray_configs_pool #30'
   password: wl4HYN9PPKs8d8IzGIt4yKqt0
   port: 53348
   server: 47.74.34.102
@@ -1908,6 +1918,22 @@ proxies:
   sni: gb.gomeow.online
   tls: false
   type: hysteria2
+- name: '10|@v2ray_configs_pool #1'
+  password: 203d1d64-3313-11ed-bb74-f23c9164ca5d
+  port: 8443
+  server: 107.167.18.102
+  skip-cert-verify: false
+  sni: 0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net
+  tls: false
+  type: hysteria2
+- name: '10|@v2ray_configs_pool #2'
+  password: 203d1d64-3313-11ed-bb74-f23c9164ca5d
+  port: 8443
+  server: 107.167.18.102
+  skip-cert-verify: false
+  sni: d7b8355e-suk9s0-t8ro7t-1ey07.hy2.gotochinatown.net
+  tls: false
+  type: hysteria2
 - name: '10|@V2rayNG3 #2'
   obfs: salamander
   obfs-password: de8287cd33b05fa3
@@ -1924,6 +1950,14 @@ proxies:
   server: 23.80.81.213
   skip-cert-verify: true
   sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: '10|@v2ray_configs_pool #6'
+  password: 467f2940-77cd-11ee-b5ed-f23c9164ca5d
+  port: 8443
+  server: 107.167.18.102
+  skip-cert-verify: true
+  sni: 898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net
   tls: false
   type: hysteria2
 - name: 10|美国10 付费推荐：https://dafei.de
@@ -1973,6 +2007,30 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '10|@v2ray_configs_pool #13'
+  password: 7992f244-8c2c-4a1a-923f-2e116e90149b
+  port: 443
+  server: 198.23.130.211
+  skip-cert-verify: true
+  sni: file-oss-ccs-02.dafei.de
+  tls: false
+  type: hysteria2
+- name: '10|@v2ray_configs_pool #14'
+  password: 8418fb71-419d-4fc3-8b29-d7fee8de76c7
+  port: 443
+  server: 104.168.34.109
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|@v2ray_configs_pool #15'
+  password: 861726bb-c61a-b0e0-99fa-5ddfdcf21902
+  port: 8443
+  server: 8b18ad20-swin40-ta5nd4-e06r.hy2.gotochinatown.net
+  skip-cert-verify: false
+  sni: 8b18ad20-swin40-ta5nd4-e06r.hy2.gotochinatown.net
+  tls: false
+  type: hysteria2
 - name: '10|美国10 付费推荐：https://dafei.de #2'
   password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
   port: 45000
@@ -1991,7 +2049,7 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
-- name: 10|آم 🇩🇪 @V2xay
+- name: 10| 🇩🇪 @V2xay
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -2019,6 +2077,16 @@ proxies:
   server: all-v4.dgi000.store
   skip-cert-verify: false
   sni: all-v4.dgi000.store
+  tls: false
+  type: hysteria2
+- name: 10|@warp_city
+  obfs: salamander
+  obfs-password: '@warp_city'
+  password: '@warp_city'
+  port: 35000
+  server: jnir-5.pichondan.com
+  skip-cert-verify: false
+  sni: pichondan.com
   tls: false
   type: hysteria2
 - name: 10|🇱telegram  @v2rayNG_Matsuri
@@ -2082,7 +2150,17 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|کاا  ا  و مل ی prox@
+- name: '10|@v2ray_configs_pool #18'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 35000
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '10|@v2ray_configs_pool #19'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2092,7 +2170,27 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🛡️ @FreakConfig #1'
+- name: '10|@v2ray_configs_pool #20'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36300
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '10|@v2ray_configs_pool #21'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36400
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '10|@v2ray_configs_pool #23'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2100,6 +2198,22 @@ proxies:
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '10|@v2ray_configs_pool #24'
+  password: a16d62f6-048d-11f0-af5a-f23c93136cb3
+  port: 1743
+  server: b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk
+  skip-cert-verify: false
+  sni: b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk
+  tls: false
+  type: hysteria2
+- name: '10|@v2ray_configs_pool #25'
+  password: a33115b6-75fa-11ed-8826-f23c9164ca5d
+  port: 8443
+  server: 81c00719-swtr40-sxzp1j-1irfn.hy2.gotochinatown.net
+  skip-cert-verify: false
+  sni: 81c00719-swtr40-sxzp1j-1irfn.hy2.gotochinatown.net
   tls: false
   type: hysteria2
 - name: '10|Telegram@vmessorg #1'
