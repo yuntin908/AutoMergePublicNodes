@@ -1667,6 +1667,13 @@ proxies:
   tls: false
   type: hysteria2
 - name: '9|Channel id: @ShadowProxy66'
+  password: 203d1d64-3313-11ed-bb74-f23c9164ca5d
+  port: 8443
+  server: 107.167.18.102
+  sni: 0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net
+  tls: false
+  type: hysteria2
+- name: '9|Channel id: @ShadowProxy66 #1'
   password: 262100bd-a0c7-4412-a62d-a07d01f11a6a
   port: 443
   server: 153.121.42.218
@@ -1722,7 +1729,7 @@ proxies:
   sni: zp2.eyujichang.xyz
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66 #1'
+- name: '9|Channel id: @ShadowProxy66 #2'
   password: 3hszBhqVsUhqOOFWJlev6k6Tkc
   port: 22509
   server: 18.143.180.14
@@ -1826,7 +1833,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇵'
+- name: 9|Telegram:@config_proxy 😍
   password: bd109dec-b7b5-4f0b-a77d-1181c148712c
   port: 53272
   server: 47.79.32.141
@@ -1866,7 +1873,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇷'
+- name: '9|Telegram:@config_proxy 😍 #2'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -1959,22 +1966,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|10 https://dafei.de
-  password: 27e473f8-d610-4b04-bdf7-d0c39b47c897
-  port: 45000
-  server: 23.80.81.213
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: 10|美国10 付费推荐：https://dafei.de
-  password: 527a7c04-9a2c-4fdb-aa18-37337e62e917
-  port: 45000
-  server: 107.174.41.101
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
 - name: 10|MCI-@Tunder_vpn
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
@@ -2014,14 +2005,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|美国10 付费推荐：https://dafei.de #1'
-  password: 67828a6e-0144-4e57-8169-2447a3dd2e61
-  port: 45000
-  server: 23.80.81.213
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
 - name: 10|@Daily_Configs
   password: 68821a5b-49db-49c7-924f-22b1441e5b30
   port: 443
@@ -2044,14 +2027,6 @@ proxies:
   server: s15.serv00.com
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|美国10 付费推荐：https://dafei.de #2'
-  password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
-  port: 45000
-  server: 23.80.81.213
-  skip-cert-verify: true
-  sni: www.apple.com
   tls: false
   type: hysteria2
 - name: 10|🛡️ @FreakConfig
@@ -2201,14 +2176,6 @@ proxies:
   server: 150.230.30.237
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|美国10 付费推荐：https://dafei.de #3'
-  password: dac2d4dd-9a4d-4eb0-92a6-028532caed52
-  port: 45000
-  server: 107.174.41.101
-  skip-cert-verify: true
-  sni: www.apple.com
   tls: false
   type: hysteria2
 - name: 10|🇹🇷¹ @VpnHubMarKeT  @VpnHubMarK...
