@@ -2244,15 +2244,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|(@vmesskhodam)چنلمون
-  obfs: salamander
-  obfs-password: mkv_SEfr-salamdash
-  password: user10.thisismeSUperkl19201
-  port: 443
-  server: shade.zone1.center
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: '10|آلمان 🇩🇪 @V2xay #2'
   obfs: salamander
   obfs-password: The_Sefr-salamdash
