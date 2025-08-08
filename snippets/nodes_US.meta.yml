@@ -784,7 +784,7 @@ proxies:
   type: socks5
 - auth: 5CBqBh6MeDq6GajcilBiDg==
   client-fingerprint: chrome
-  name: '2,9|Channel id: @ShadowProxy66🇺🇸'
+  name: 2,9|IraneAzad_Net_549
   password: 5CBqBh6MeDq6GajcilBiDg==
   port: 61001
   server: 192.227.152.86
@@ -1340,7 +1340,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇺🇸 #3'
+- name: '9|zeshtobad #2'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
