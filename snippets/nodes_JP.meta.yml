@@ -1,7 +1,7 @@
 proxies:
 - alterId: 64
   cipher: auto
-  name: 0|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
+  name: 1|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
   network: ws
   port: 1443
   server: sslvpn.51job.com
@@ -21,14 +21,6 @@ proxies:
   server: jp1.interld123456789.com
   skip-cert-verify: true
   sni: 1231231.1234567890spcloud.com
-  tls: false
-  type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇯🇵'
-  password: 262100bd-a0c7-4412-a62d-a07d01f11a6a
-  port: 443
-  server: 45.11.1.62
-  skip-cert-verify: true
-  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - name: 9|🇯🇵日本
@@ -55,20 +47,13 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇯🇵 #1'
-  password: wl4HYN9PPKs8d8IzGIt4yKqt0
-  port: 53348
-  server: 47.74.34.102
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 12|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507282137611-Ibej7QBdUa.download.microsoft.com
+    host: 202507282137611-G2zNAjxjDH.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -94,8 +79,8 @@ proxies:
   name: 12,13|日本3|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
-  port: 443
-  server: 157.120.32.122
+  port: 180
+  server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -107,15 +92,6 @@ proxies:
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
-  type: trojan
-- client-fingerprint: chrome
-  name: 12,13|日本5|@ripaojiedian
-  network: tcp
-  password: 6bc1c915-2fee-469b-b0e2-01968be45bf6
-  port: 23007
-  server: okanc.iepl.cac.cab
-  skip-cert-verify: true
-  sni: www.bilibili.com
   type: trojan
 - alterId: 0
   cipher: auto
